@@ -1,0 +1,5 @@
+linuxos.spec
+build
+dist
+__pycache__
+packages
